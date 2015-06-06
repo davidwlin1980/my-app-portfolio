@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Nanodegree Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MyAppResource1">My Nanodegree Apps</string>
+</resources>
